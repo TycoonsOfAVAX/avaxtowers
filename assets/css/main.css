@@ -2267,6 +2267,20 @@ input, select, textarea {
 			letter-spacing: 0.05em;
 		}
 
+
+		/* Highlights 2*/
+
+	#highlights .highlight2 {
+		text-align: left;
+	}
+
+		#highlights .highlight2 h3 {
+			color: #e97770;
+			margin: 0 0 0.75em 0;
+			font-size: 1.15em;
+			letter-spacing: 0.05em;
+		}
+
 /* Main */
 
 /* Footer */
